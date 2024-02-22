@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to 1:ID!" />
         <p className="description">
-          Reach us at ktl@1id.info to access developer support />
+          Reach us at ktl@1id.info to access developer support >
         </p>
       </main>
 
