@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to 1:ID!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Reach us at ktl@1id.info for developer support!</code>
         </p>
       </main>
 
