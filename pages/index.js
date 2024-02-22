@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to 1:ID!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Reach us at ktl@1id.info for developer support!
         </p>
       </main>
 
