@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to 1:ID!" />
+        <Header title="Welcome to 1:ID" />
         <p className="description">
           Reach us at ktl@1id.info for developer support!
         </p>
