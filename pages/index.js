@@ -15,6 +15,9 @@ export default function Home() {
         <p className="description">
           Reach us at ktl@1id.info for developer support!
         </p>
+        <p className="description">
+          Main site: <a href="https://www.1id.one/"1id.one<a>
+        </p>
       </main>
 
       <Footer />
